@@ -1,2 +1,2 @@
-## Hey, I'm Nao :D
+Hey I'm Nao 
 Computer Science student at UNB
